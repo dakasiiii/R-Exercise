@@ -1,2 +1,2 @@
 # R Exercise
- This are my answers to my Soc Sci 103: Statistics for the Social Science course exercise
+ This are the exercises I made to practice what I learned in my Soc Sci 103: Statistics for Social Sciences course
